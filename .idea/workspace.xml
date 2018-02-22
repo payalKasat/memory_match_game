@@ -2,98 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e97b3144-73fc-4d28-a9a8-268824ecb238" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ashwi.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/memory_match.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Chase.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Everest.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Marshall.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/PAW_Patrol_Logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Paw-patrol-ryder.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Question-animated-300px-QuestionMark.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Rocky.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Rubble.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Skye.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Zuma.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/black.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blue.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/circle.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/dark-blue.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/eight.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/five.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/four.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/game_background.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/green.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/heart.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/heart_sp.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/hexagoan.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front1.1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front2.1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front3.1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front4.1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front5.1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front6.1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front7.1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front8.1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front9.1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/m_m_front9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/nine.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/number1.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/number2.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/number3.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/number4.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/number5.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/number6.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/number7.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/number8.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/number9.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/oactogon.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/octogon_sp.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/one.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/orange.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/oval.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/oval_sp.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/pantagon.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/pantagon_sp.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/paw_patrol_all.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/paw_petrol_back.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/pink.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/rectangle.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/rectangle_sp.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/red.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/seven.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/six.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/squar.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/squar_sp.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/star.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/star_sp.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/three.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/trapzoide.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/trapzoide_sp.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/triangle.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/triangle_sp.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/two.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/white.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/yellow.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/script_code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/style1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/style1.css" afterPath="" />
     </list>
     <ignored path="memory_match.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,7 +24,48 @@
     <favorites_list name="memory_match" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="849">
+              <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script_code.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script_code.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="771">
+              <caret line="82" column="26" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -170,7 +123,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="memory_match" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory_match" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -261,12 +224,20 @@
       <workItem from="1518908976834" duration="53000" />
       <workItem from="1518909075511" duration="595000" />
       <workItem from="1518910076316" duration="1430000" />
-      <workItem from="1519327016665" duration="606000" />
+      <workItem from="1519327016665" duration="1674000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit to set project">
+      <created>1519327744512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519327744512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10323000" />
+    <option name="totallyTimeSpent" value="11391000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -279,16 +250,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="2" width="3220" height="1729" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14133935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293872" sideWeight="0.49870718" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32742155" sideWeight="0.5167418" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32742155" sideWeight="0.5167418" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32965606" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32742155" sideWeight="0.48325822" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32742155" sideWeight="0.48325822" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -298,7 +271,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="GitLabIntegration" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293872" sideWeight="0.49741435" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965606" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -316,25 +288,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit to set project" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit to set project" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="123" column="17" lean-forward="false" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script_code.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -625,24 +587,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://C:/Program Files/Git/ReleaseNotes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="1184" column="5" lean-forward="true" selection-start-line="1184" selection-start-column="5" selection-end-line="1184" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
+        <state relative-caret-position="849">
           <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="147" column="1" lean-forward="false" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="129" column="5" lean-forward="false" selection-start-line="129" selection-start-column="5" selection-end-line="129" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -650,13 +606,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="771">
           <caret line="82" column="26" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Git/ReleaseNotes.html">
+    <entry file="file://$PROJECT_DIR$/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="1184" column="5" lean-forward="true" selection-start-line="1184" selection-start-column="5" selection-end-line="1184" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
