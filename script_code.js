@@ -52,7 +52,7 @@ function dynamic_shuffle_card_creation(old_array) {         //dynamically card c
         var temp = (old_array.splice(num, 1));                  //splice that number from old array and store in temp variable
         new_array.push(temp[0]);                            //push that temp store num image in to new_array for shuffle cards
     }
-    console.log(new_array);l
+    console.log(new_array);
     for(var j = 0; j < current_length; j++) {               //one more for loop for appending new arrays images to front card
     $('.card' + j  + '>.front').append('<img src="' + new_array[j] + '">');     //append images to front card
     }
