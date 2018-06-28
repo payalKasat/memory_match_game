@@ -11,6 +11,7 @@ var attempts = 0;
 var accuracy = 0;
 
 function select_game_option(){
+    $('.modal-body,.modal-footer').empty();
     model_title("select the game option");
     var alpha_cards = $("<input>").attr({'type':'radio','name':'turn'}).html('<h4>Alphabets</h4>').addClass('Alphabets');    //Alphabets radio button created
     var num_cards = $("<input>").attr({'type':'radio','name':'turn'}).html('<h4>Numbers</h4>').addClass('Numbers');    //Numbers radio button created
@@ -95,7 +96,7 @@ function card_click(element){                           //card click function
                 if (match_counter == total_possible_match) {
                     setTimeout(function(){
                         select_game_option();
-                        model_title('Hurry you won');       //all cards match model comes down
+                        show_message('Hurry you won');       //all cards match model comes down
                         games++;                            //increases game number
                         $('.games').text(games);
                         console.log('games',games);

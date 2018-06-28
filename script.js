@@ -28,7 +28,7 @@ function try_again_message(){
     $('.cheer_up_message').append(message_div);
     var message_P = $('<p></p>').addClass('message_P');
     $(message_div).append(message_P);
-    $('.message_P').text('try again');
+    $('.message_P').text('Try again');
 }
 function back_card(){
     $('.card-div').addClass('lock');
