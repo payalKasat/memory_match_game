@@ -43,7 +43,11 @@ function select_game_option(){
 }
 
 function dynamic_shuffle_card_creation(old_array) {         //dynamically card creation function, with selected sets of card
-    $('.front').empty();                                    //empty precise front card
+    $('.back').remove();
+    $('.front').remove();                                    //empty precise front card
+
+    back_card();
+
     $('.card-div').removeClass('lock');                    //after card set selected, remove lock class form card-div
     var new_array = [];                                    // empty array variable created
     var card_faces_length = old_array.length;             //card face length created and value assigned to selected cards count

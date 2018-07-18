@@ -38,7 +38,7 @@ function back_card(){
 }
 
 function card_selection(){
-    back_card();
+    //back_card();
 
     var card_faces = {
         alph: [

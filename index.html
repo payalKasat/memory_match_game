@@ -21,29 +21,41 @@
         <!--<a href="about_me.html"><img class="logo" src="images/Question-animated-300px-QuestionMark.gif" alt="game_logo"></a>-->
         <h1 class="logo_h">Memory Match Game</h1>
     </div>
-    <div class="container-fluid game_options" >
+    <!--<div class="container-fluid game_options" >-->
+        <!--<ul class="game_option_ul">-->
+            <!--<li class="active alph Alphabets col-xs-6 col-md-2"><a href="#">Alphabets</a></li>-->
+            <!--<li class="num Numbers col-xs-6 col-md-2"><a href="#">Numbers</a></li>-->
+            <!--<li class="shapes Shapes col-xs-6 col-md-2"><a href="#">Shapes</a></li>-->
+            <!--&lt;!&ndash;<li class="colors Colors col-xs-6 col-md-2"><a href="#">Colors</a></li>&ndash;&gt;-->
+            <!--<li class="colors Colors col-xs-6 col-md-2"><a href="#">Paw pertol</a></li>-->
+            <!--&lt;!&ndash;<li class="colors Colors col-xs-6 col-md-2"><div class="cheer_up_message"></div></li>&ndash;&gt;-->
+
+        <!--</ul>-->
+    <!--</div>-->
+
+    <!--<div class="games_played col-xs-12" data-toggle="collapse">-->
+        <!--<h4 class="col-xs-6 col-md-3 lable">Games:<br>-->
+            <!--<p class="col-xs-2 display games" id="games_played"></p>-->
+        <!--</h4>-->
+        <!--<h4 class="lable col-xs-6 col-md-3">Attempts:<br>-->
+            <!--<p class="col-xs-2 display attempts" id="attempts"></p>-->
+        <!--</h4>-->
+        <!--<h4 class="lable col-xs-6 col-md-3">Accuracy:<br>-->
+            <!--<p class="col-xs-2 display accuracy" id="accuracy"></p>-->
+        <!--</h4>-->
+        <!--<li class="colors Colors col-xs-6 col-md-2"><div class="cheer_up_message"></div></li>-->
+
+    <!--</div>-->
+    <div class="container-fluid game-board">
         <ul class="game_option_ul">
             <li class="active alph Alphabets col-xs-6 col-md-2"><a href="#">Alphabets</a></li>
             <li class="num Numbers col-xs-6 col-md-2"><a href="#">Numbers</a></li>
             <li class="shapes Shapes col-xs-6 col-md-2"><a href="#">Shapes</a></li>
             <li class="colors Colors col-xs-6 col-md-2"><a href="#">Colors</a></li>
             <li class="colors Colors col-xs-6 col-md-2"><a href="#">Paw pertol</a></li>
-            <li class="colors Colors col-xs-6 col-md-2"><div class="cheer_up_message"></div></li>
+            <li class="colors Colors col-xs-6 col-md-2"><a href="#">Reset</a></li>
 
         </ul>
-    </div>
-
-    <div class="games_played col-xs-12" data-toggle="collapse">
-        <h4 class="col-xs-6 col-md-3 lable">Games:<br>
-            <p class="col-xs-2 display games" id="games_played"></p>
-        </h4>
-        <h4 class="lable col-xs-6 col-md-3">Attempts:<br>
-            <p class="col-xs-2 display attempts" id="attempts"></p>
-        </h4>
-        <h4 class="lable col-xs-6 col-md-3">Accuracy:<br>
-            <p class="col-xs-2 display accuracy" id="accuracy"></p>
-        </h4>
-        <button class="reset col-xs-6 col-md-3" type="reset">Reset</button>
     </div>
     <div class="col-xs-12 game_area" id="game-area">
         <div class="card0 col-xs-4  col-sm-2 card-div  "></div>
@@ -64,6 +76,19 @@
         <div class="card15 col-xs-4  col-sm-2 card-div  "></div>
         <div class="card16 col-xs-4  col-sm-2 card-div  "></div>
         <div class="card17 col-xs-4  col-sm-2 card-div  "></div>
+    </div>
+
+    <div class="games_played col-xs-12" data-toggle="collapse">
+    <h4 class="col-xs-6 col-md-3 lable">Games:<br>
+    <p class="col-xs-2 display games" id="games_played"></p>
+    </h4>
+    <h4 class="lable col-xs-6 col-md-3">Attempts:<br>
+    <p class="col-xs-2 display attempts" id="attempts"></p>
+    </h4>
+    <h4 class="lable col-xs-6 col-md-3">Accuracy:<br>
+    <p class="col-xs-2 display accuracy" id="accuracy"></p>
+    </h4>
+    <div class="cheer_up_message col-xs-6 col-md-3"></div>
     </div>
 <!-- Modal -->
     <div class="modal fade" id="myModal" role="dialog">

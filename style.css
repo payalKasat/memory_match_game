@@ -30,13 +30,13 @@ body{
 }
 .message_p{
     text-align: center;
-    color: green;
-    font-size: 250%;
+    color: blue;
+    font-size: 30px;
 }
 .message_P{
     text-align: center;
     color: red;
-    font-size: 250%;
+    font-size: 30px;
 }
 body{
     background-image:url("https://s-media-cache-ak0.pinimg.com/originals/86/eb/7f/86eb7f41b8f483325fe67cd7dbe3f1d8.jpg");
@@ -44,11 +44,9 @@ body{
     background-size: 100% 100%;
 }
 .reset{
-    height: 3em;
-    background-color:rgb(71,143,172) ;
-    font-size: 1.3em;
-    font-weight: bold;
-    color: black;
+
+    /*font-weight: bold;*/
+    /*color: black;*/
 }
 .reset:hover{
     #height: 4em;
@@ -158,17 +156,19 @@ body{
     color: yellow;
     font-size: 2.5vh;
 }
-.game_options{
-    margin: 15px;
+.game-board{
+    margin-bottom: 5vh;
 }
 .game_option_ul{
     list-style: none;
 }
-.game_option_ul>li>a{
+.game_option_ul>li>a,.reset{
     color: #c13a65;
     padding: 10px;
     background-color: gray;
     border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
 }
 
 .navbar-default .navbar-nav>li>a{
