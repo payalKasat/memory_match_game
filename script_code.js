@@ -51,6 +51,9 @@ function dynamic_shuffle_card_creation(old_array) {         //dynamically card c
     $('.back').remove();
     $('.front').remove();                                    //empty precise front card
     back_card();
+    attempts = 0;
+    match_counter = 0;
+    display_stats();
 
     $('.card-div').removeClass('lock');                    //after card set selected, remove lock class form card-div
     var new_array = [];                                    // empty array variable created
@@ -95,6 +98,7 @@ function card_click(element){                           //card click function
                 second_card_clicked.find('.front').hide();
                 //hide the matched cards
                 match_counter++;            //increases match counter
+                display_stats();
                 console.log('match counter',match_counter,accuracy,attempts);
                 first_card_clicked = null;
                 second_card_clicked = null;

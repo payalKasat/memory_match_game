@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e97b3144-73fc-4d28-a9a8-268824ecb238" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script_code.js" beforeDir="false" afterPath="$PROJECT_DIR$/script_code.js" afterDir="false" />
     </list>
     <ignored path="memory_match.iws" />
@@ -45,16 +44,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script_code.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script_code.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script_code.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="17" column="149" lean-forward="true" selection-start-line="17" selection-start-column="149" selection-end-line="17" selection-end-column="149" />
+            <state relative-caret-position="628">
+              <caret line="159" column="1" lean-forward="true" selection-start-line="159" selection-start-column="1" selection-end-line="159" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="628">
@@ -95,8 +94,8 @@
         <option value="$PROJECT_DIR$/images/images_folder/everest.jfif" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/script_code.js" />
         <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/script_code.js" />
       </list>
     </option>
   </component>
@@ -241,7 +240,7 @@
       <workItem from="1531261020505" duration="54000" />
       <workItem from="1531763415646" duration="431000" />
       <workItem from="1531846797490" duration="1572000" />
-      <workItem from="1531932358781" duration="11574000" />
+      <workItem from="1531932358781" duration="14324000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit to set project">
       <created>1519327744512</created>
@@ -285,11 +284,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531940173204</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All sets are working and working on more options.">
+      <created>1532018760422</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532018760422</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49077000" />
+    <option name="totallyTimeSpent" value="51827000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -301,7 +307,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1613" height="873" extended-state="7" />
+    <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.16205788" />
@@ -371,16 +377,11 @@
     <MESSAGE value="adding color cards and working on that functinality" />
     <MESSAGE value="fixing some issues and working on 4th card set" />
     <MESSAGE value="working on mulitipal set selection issue." />
-    <option name="LAST_COMMIT_MESSAGE" value="working on mulitipal set selection issue." />
+    <MESSAGE value="All sets are working and working on more options." />
+    <option name="LAST_COMMIT_MESSAGE" value="All sets are working and working on more options." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/script_code.js</url>
-          <line>91</line>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="2" />
     </breakpoint-manager>
   </component>
@@ -716,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script_code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="17" column="149" lean-forward="true" selection-start-line="17" selection-start-column="149" selection-end-line="17" selection-end-column="149" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
@@ -742,6 +736,13 @@
             <element signature="e#2030#2652#0" />
             <element signature="e#2669#3280#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script_code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="159" column="1" lean-forward="true" selection-start-line="159" selection-start-column="1" selection-end-line="159" selection-end-column="1" />
         </state>
       </provider>
     </entry>
