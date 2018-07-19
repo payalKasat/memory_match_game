@@ -131,6 +131,15 @@ function card_selection(){
             "images/green.PNG",
             "images/black.PNG",
             "images/orange.PNG",
+            "images/dark-blue.PNG",
+            "images/yellow.PNG",
+            "images/white.PNG",
+            "images/red.PNG",
+            "images/pink.PNG",
+            "images/blue.PNG",
+            "images/green.PNG",
+            "images/black.PNG",
+            "images/orange.PNG",
             "images/dark-blue.PNG"
         ]
     };
@@ -152,7 +161,7 @@ function card_selection(){
         $('.card-div').append(back_card_div);
         dynamic_shuffle_card_creation(card_faces.paw_petrol);
     });
-    $('.colors').click(function(){
+    $('.Colors').click(function(){
        dynamic_shuffle_card_creation(card_faces.colors);
     });
 

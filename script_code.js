@@ -16,6 +16,7 @@ function select_game_option(){
     var alpha_cards = $("<input>").attr({'type':'radio','name':'turn'}).html('<h4>Alphabets</h4>').addClass('Alphabets');    //Alphabets radio button created
     var num_cards = $("<input>").attr({'type':'radio','name':'turn'}).html('<h4>Numbers</h4>').addClass('Numbers');    //Numbers radio button created
     var shapes_cards = $("<input>").attr({'type':'radio','name':'turn'}).html('<h4>Shapes</h4>').addClass('Shapes');    //Shapes radio button created
+    var color_cards = $("<input>").attr({'type':'radio','name':'turn'}).html('<h4>Colors</h4>').addClass('Colors');    //colors radio button created
     var paw_petrol_cards = $("<input>").attr({'type':'radio','name':'turn'}).html('<h4>paw_petrol</h4>').addClass('paw_petrol');    //Alphabets radio button created
     var alpha = $('<label>').html('<p>Alphabets</p>');        //Alphabets label created
     //var alpha_image = $('<img>').attr('src','images/m_m_front1.jpg').addClass('pl_img');      //Alphabets image created dynamically
@@ -24,14 +25,17 @@ function select_game_option(){
     //var num_image = $('<img>').attr('src','images/number1.jpg').addClass('pl_img');     //Numbers image created dynamically
     var brake1 = $('<br>');      //brake tag created
     var brake2 = $('<br>');
-    var shapes = $('<label>').html('<p>Shapes</p>');        //Numbers label created
+    var shapes = $('<label>').html('<p>Shapes</p>');        //shapes label created
     //var shapes_image = $('<img>').attr('src','images/star.png').addClass('pl_img');     //Shapes image created dynamically
+    var color = $('<label>').html('<p>Colors</p>');        //color label created
+    var brake3 = $('<br>');
     var paw_petrol = $('<label>').html('<p>Paw_petrol</p>');
     var start_button = $("<button>").addClass('btn btn-success start_button').text('start');     //dynamically start button created
-    $(".modal-body").append(alpha,alpha_cards,brake,num,num_cards,brake1,shapes,shapes_cards,brake2,paw_petrol,paw_petrol_cards);      //append player 1,2,3 and there images
+    $(".modal-body").append(alpha,alpha_cards,brake,num,num_cards,brake1,shapes,shapes_cards,brake2,color,color_cards,brake3,paw_petrol,paw_petrol_cards);      //append player 1,2,3 and there images
     alpha.append(alpha_cards);       //append alpha radio button to Alphabets label
     num.append(num_cards);       //append num radio button to Numbers label
     shapes.append(shapes_cards);     //append shapes radio button to Shapes label
+    color.append(color_cards);     //append shapes radio button to Shapes label
     paw_petrol.append(paw_petrol_cards);
     var cancel_button = $("<button>").addClass('btn btn-success cancel_button').text('cancel');     //dynamically cancel button created
 
@@ -43,9 +47,9 @@ function select_game_option(){
 }
 
 function dynamic_shuffle_card_creation(old_array) {         //dynamically card creation function, with selected sets of card
+
     $('.back').remove();
     $('.front').remove();                                    //empty precise front card
-
     back_card();
 
     $('.card-div').removeClass('lock');                    //after card set selected, remove lock class form card-div

@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e97b3144-73fc-4d28-a9a8-268824ecb238" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script_code.js" beforeDir="false" afterPath="$PROJECT_DIR$/script_code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="memory_match.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1130">
-              <caret line="90" column="50" selection-start-line="90" selection-start-column="50" selection-end-line="90" selection-end-column="50" />
+            <state relative-caret-position="434">
+              <caret line="109" column="6" lean-forward="true" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -47,25 +45,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script_code.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script_code.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script_code.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+            <state relative-caret-position="248">
+              <caret line="17" column="149" lean-forward="true" selection-start-line="17" selection-start-column="149" selection-end-line="17" selection-end-column="149" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            <state relative-caret-position="628">
+              <caret line="164" column="23" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
               <folding>
                 <element signature="e#1340#2016#0" />
                 <element signature="e#2030#2652#0" />
                 <element signature="e#2669#3280#0" />
-                <element signature="e#3953#4253#0" />
               </folding>
             </state>
           </provider>
@@ -98,8 +95,8 @@
         <option value="$PROJECT_DIR$/images/images_folder/everest.jfif" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/script_code.js" />
+        <option value="$PROJECT_DIR$/script.js" />
       </list>
     </option>
   </component>
@@ -244,7 +241,7 @@
       <workItem from="1531261020505" duration="54000" />
       <workItem from="1531763415646" duration="431000" />
       <workItem from="1531846797490" duration="1572000" />
-      <workItem from="1531932358781" duration="7034000" />
+      <workItem from="1531932358781" duration="11574000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit to set project">
       <created>1519327744512</created>
@@ -281,11 +278,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530225491010</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="working on mulitipal set selection issue.">
+      <created>1531940173204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531940173204</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44537000" />
+    <option name="totallyTimeSpent" value="49077000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -297,7 +301,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
+    <frame x="-6" y="-6" width="1613" height="873" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.16205788" />
@@ -366,14 +370,15 @@
     <MESSAGE value="working on card selection and functionality work." />
     <MESSAGE value="adding color cards and working on that functinality" />
     <MESSAGE value="fixing some issues and working on 4th card set" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing some issues and working on 4th card set" />
+    <MESSAGE value="working on mulitipal set selection issue." />
+    <option name="LAST_COMMIT_MESSAGE" value="working on mulitipal set selection issue." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/script_code.js</url>
-          <line>87</line>
+          <line>91</line>
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="2" />
@@ -409,7 +414,6 @@
             <element signature="e#1340#2016#0" />
             <element signature="e#2030#2652#0" />
             <element signature="e#2669#3280#0" />
-            <element signature="e#3953#4253#0" />
           </folding>
         </state>
       </provider>
@@ -443,7 +447,6 @@
             <element signature="e#1340#2016#0" />
             <element signature="e#2030#2652#0" />
             <element signature="e#2669#3280#0" />
-            <element signature="e#3953#4253#0" />
           </folding>
         </state>
       </provider>
@@ -477,7 +480,6 @@
             <element signature="e#1340#2016#0" />
             <element signature="e#2030#2652#0" />
             <element signature="e#2669#3280#0" />
-            <element signature="e#3953#4253#0" />
           </folding>
         </state>
       </provider>
@@ -511,7 +513,6 @@
             <element signature="e#1340#2016#0" />
             <element signature="e#2030#2652#0" />
             <element signature="e#2669#3280#0" />
-            <element signature="e#3953#4253#0" />
           </folding>
         </state>
       </provider>
@@ -531,7 +532,6 @@
             <element signature="e#1340#2016#0" />
             <element signature="e#2030#2652#0" />
             <element signature="e#2669#3280#0" />
-            <element signature="e#3953#4253#0" />
           </folding>
         </state>
       </provider>
@@ -716,10 +716,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/script_code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="17" column="149" lean-forward="true" selection-start-line="17" selection-start-column="149" selection-end-line="17" selection-end-column="149" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1130">
-          <caret line="90" column="50" selection-start-line="90" selection-start-column="50" selection-end-line="90" selection-end-column="50" />
+        <state relative-caret-position="434">
+          <caret line="109" column="6" lean-forward="true" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
@@ -728,21 +735,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        <state relative-caret-position="628">
+          <caret line="164" column="23" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
           <folding>
             <element signature="e#1340#2016#0" />
             <element signature="e#2030#2652#0" />
             <element signature="e#2669#3280#0" />
-            <element signature="e#3953#4253#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script_code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
         </state>
       </provider>
     </entry>
