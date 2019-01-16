@@ -38,8 +38,8 @@ function back_card(){
 }
 
 function card_selection(){
-    //back_card();
-
+    //reset_button();
+    back_card();
     var card_faces = {
         alph: [
             "images/m_m_front1.jpg",
@@ -154,12 +154,13 @@ function card_selection(){
         dynamic_shuffle_card_creation(card_faces.shapes);
     });
     $('.paw_petrol').click(function(){
-        $('.back').remove();
-        $('.card-div').addClass('lock');
-        var back_card_div = $('<div><img src="images/paw_petrol_back.jpg"></div>').addClass('back card');
-        //var front_card_div = $('<div></div>').addClass('front');
-        $('.card-div').append(back_card_div);
         dynamic_shuffle_card_creation(card_faces.paw_petrol);
+        // $('.back').remove();
+        // $('.card-div').addClass('lock');
+        // var back_card_div = $('<div><img src="images/paw_petrol_back.jpg"></div>').addClass('back card');
+        // //var front_card_div = $('<div></div>').addClass('front');
+        // $('.card-div').append(back_card_div);
+
     });
     $('.Colors').click(function(){
        dynamic_shuffle_card_creation(card_faces.colors);
